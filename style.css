@@ -51,7 +51,7 @@ p{
 }
 .about-us{
     background-image: url(images/shapes/7.png);
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     padding-top: 50px;
 }
