@@ -26,7 +26,7 @@ p{
     padding-left: 5%;
 }
 .the-diet{
-    padding-top: 20px;
+    padding-top: 50px;
 }
 .the-diet h1{ 
     padding: 100px 15px 10px 0px;
@@ -51,8 +51,9 @@ p{
 }
 .about-us{
     background-image: url(images/shapes/7.png);
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
+    padding-top: 50px;
 }
 .about-us img{
     width: 70%;
