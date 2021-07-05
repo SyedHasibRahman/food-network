@@ -53,10 +53,10 @@ p{
     background-image: url(images/shapes/7.png);
     background-size: contain;
     background-repeat: no-repeat;
-    padding: 50px;
+    padding-top: 50px;
 }
 .about-us img{
-    width: 72%;
+    width: 66%;
     padding-left: 30px;
     margin: 0 auto;
     display: block;
