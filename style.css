@@ -57,6 +57,8 @@ p{
 .about-us img{
     width: 70%;
     padding-left: 30px;
+    margin: 0 auto;
+    display: block;
 }
 .about-iteam{
     width: 36%;
@@ -104,7 +106,7 @@ p{
 }
 footer{
     background-color: #0B0D17;
-    padding: 20px 0px;
+    padding: 10px 0px 30px 0px;
     text-align: center;
     color: white;
 }
