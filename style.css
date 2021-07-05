@@ -21,7 +21,7 @@ p{
     padding-left: 5%;
 }
 .the-diet{
-
+    padding-top: 20px;
 }
 .the-diet h1{ 
     padding: 100px 15px 10px 0px;
@@ -31,7 +31,7 @@ p{
 }
 
 .the-diet img{
-    width: 85%;
+    width: 90%;
 }
 .color-text{
     color:#FBA24F;
@@ -43,4 +43,24 @@ p{
     border-radius: 25px;
     color: white;
     font-weight: 700;
+}
+.about-us{
+    background-image: url(images/shapes/7.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.about-us img{
+    width: 70%;
+    padding-left: 30px;
+}
+.about-iteam{
+    width: 36%;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+.about-us h2{ 
+    padding: 50px 0px 15px 0px;
+}
+.about-us p{
+    padding: 0px 0px 70px 0px;
 }
