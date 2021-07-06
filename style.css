@@ -71,6 +71,7 @@ p{
 }
 .about-us p{
     padding: 0px 0px 70px 0px;
+    text-align: justify;
 }
 .my-recipies-heading{
     width: 50%;
@@ -93,6 +94,11 @@ p{
 .recipies-box img{
     width: 100%; 
     margin: 10px auto 20px ; 
+}
+.read-more{
+    text-decoration: none;
+    color: tomato;
+    font-weight: 900;
 }
 .social-counter{
     box-shadow: 3px 10px 20px #ccc;
